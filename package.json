@@ -1,0 +1,26 @@
+{
+  "name": "starting-out",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unprofessional-dev/starting-out.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/unprofessional-dev/starting-out/issues"
+  },
+  "homepage": "https://github.com/unprofessional-dev/starting-out#readme",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1"
+  }
+}
